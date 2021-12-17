@@ -1,6 +1,7 @@
 # IT203-Team2
 
-Under supervision of **Dr. Bhawana Rudra**
+Under supervision of **Dr. Bhawana Rudra** and **Trupti Chandak**
+
 
 Team members:
 1. Tejaswi Hegde
